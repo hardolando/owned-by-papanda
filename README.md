@@ -1,4 +1,3 @@
-# owned-by-papanda
 
 # Papanda custom
 
